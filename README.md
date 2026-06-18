@@ -1,3 +1,3 @@
 # Digital-Library
-# Abouut this project
-this project was bbuilt with th ehelp of AI tolls for learnign and practic purposes. 
+# About this project
+this project was built with the help of AI tolls for learning and practice purposes. 
